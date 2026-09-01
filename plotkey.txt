@@ -1,0 +1,10 @@
+t = 1
+Voltmeter_load1 = 2
+Voltmeter_load2 = 3
+Voltmeter_load3 = 4
+Voltmeter_Vsource = 5
+Voltmeter_Cfilter = 6
+Ammeter_load1 = 7
+Ammeter_load2 = 8
+Ammeter_load3 = 9
+Ammeter_Isource = 10
